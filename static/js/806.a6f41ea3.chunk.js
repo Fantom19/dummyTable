@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdummyTable_task=self.webpackChunkdummyTable_task||[]).push([[806],{3806:function(n,e,t){t.r(e),t.d(e,{Header:function(){return i},Link:function(){return l}});var r,o,a=t(168),c=t(5867),u=t(1087),i=c.ZP.div(r||(r=(0,a.Z)(["\n  display: flex;\n  justify-content: center;\n  gap: 15px;\n  margin-bottom: 20px;\n"]))),l=(0,c.ZP)(u.OL)(o||(o=(0,a.Z)(["\n  font-size: 20px;\n  color: black;\n\n  &:hover {\n    color: red;\n  }\n\n  &.active {\n    color: red;\n  }\n"])))}}]);
+//# sourceMappingURL=806.a6f41ea3.chunk.js.map

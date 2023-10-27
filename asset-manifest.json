@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dummyTable/static/css/main.765b310e.css",
+    "main.js": "/dummyTable/static/js/main.c34d4554.js",
+    "static/js/727.995b3765.chunk.js": "/dummyTable/static/js/727.995b3765.chunk.js",
+    "static/js/806.a6f41ea3.chunk.js": "/dummyTable/static/js/806.a6f41ea3.chunk.js",
+    "static/js/888.7fd912e0.chunk.js": "/dummyTable/static/js/888.7fd912e0.chunk.js",
+    "static/js/273.9228a106.chunk.js": "/dummyTable/static/js/273.9228a106.chunk.js",
+    "static/js/350.5f45eba3.chunk.js": "/dummyTable/static/js/350.5f45eba3.chunk.js",
+    "static/css/432.724b9f48.chunk.css": "/dummyTable/static/css/432.724b9f48.chunk.css",
+    "static/js/432.d44cd83e.chunk.js": "/dummyTable/static/js/432.d44cd83e.chunk.js",
+    "static/css/420.724b9f48.chunk.css": "/dummyTable/static/css/420.724b9f48.chunk.css",
+    "static/js/420.c5c937ef.chunk.js": "/dummyTable/static/js/420.c5c937ef.chunk.js",
+    "static/js/608.aa6d8856.chunk.js": "/dummyTable/static/js/608.aa6d8856.chunk.js",
+    "static/js/203.10c58fba.chunk.js": "/dummyTable/static/js/203.10c58fba.chunk.js",
+    "index.html": "/dummyTable/index.html",
+    "main.765b310e.css.map": "/dummyTable/static/css/main.765b310e.css.map",
+    "main.c34d4554.js.map": "/dummyTable/static/js/main.c34d4554.js.map",
+    "727.995b3765.chunk.js.map": "/dummyTable/static/js/727.995b3765.chunk.js.map",
+    "806.a6f41ea3.chunk.js.map": "/dummyTable/static/js/806.a6f41ea3.chunk.js.map",
+    "888.7fd912e0.chunk.js.map": "/dummyTable/static/js/888.7fd912e0.chunk.js.map",
+    "273.9228a106.chunk.js.map": "/dummyTable/static/js/273.9228a106.chunk.js.map",
+    "350.5f45eba3.chunk.js.map": "/dummyTable/static/js/350.5f45eba3.chunk.js.map",
+    "432.724b9f48.chunk.css.map": "/dummyTable/static/css/432.724b9f48.chunk.css.map",
+    "432.d44cd83e.chunk.js.map": "/dummyTable/static/js/432.d44cd83e.chunk.js.map",
+    "420.724b9f48.chunk.css.map": "/dummyTable/static/css/420.724b9f48.chunk.css.map",
+    "420.c5c937ef.chunk.js.map": "/dummyTable/static/js/420.c5c937ef.chunk.js.map",
+    "608.aa6d8856.chunk.js.map": "/dummyTable/static/js/608.aa6d8856.chunk.js.map",
+    "203.10c58fba.chunk.js.map": "/dummyTable/static/js/203.10c58fba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.765b310e.css",
+    "static/js/main.c34d4554.js"
+  ]
+}
